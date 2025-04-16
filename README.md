@@ -1,1 +1,14 @@
-# Retro-video-game-C-
+# Retro-video-game-C++
+
+Estructura:
+
+    Herramientas usadas:
+        -
+        -
+        -
+
+    Entorno de desarrollo:
+        -
+
+    Explicacion Tecnica del codigo:
+        -
