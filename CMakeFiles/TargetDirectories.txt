@@ -1,0 +1,3 @@
+/home/radmas/videoJuegoEnC++/Retro-video-game-C-/CMakeFiles/juego.dir
+/home/radmas/videoJuegoEnC++/Retro-video-game-C-/CMakeFiles/edit_cache.dir
+/home/radmas/videoJuegoEnC++/Retro-video-game-C-/CMakeFiles/rebuild_cache.dir

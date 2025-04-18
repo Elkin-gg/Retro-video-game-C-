@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/juego.dir/src/entities/Asteroide.cpp.o CMakeFiles/juego.dir/src/entities/Disparo.cpp.o CMakeFiles/juego.dir/src/entities/Nave.cpp.o CMakeFiles/juego.dir/src/main/main.cpp.o -o juego  /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.6.1 
